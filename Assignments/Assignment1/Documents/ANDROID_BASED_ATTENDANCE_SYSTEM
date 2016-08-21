@@ -1,0 +1,24 @@
+ANDROID_BASED_ATTENDANCE_SYSTEM:
+Proposal:
+This the app where the faculty can store the list of the students names and their information like roll numbers,name,subject etc., who opted for his respective subject. Attendance of the students for a subject will be taken by respective faculty.Information of attendance will be stored in the mobile in some format (like pdf) which can be shared to admin.
+
+Requirements:
+1.Platform to design android app,languages like XML,JAVA  and languages related to cloud computing ..
+
+Design:
+1.Dividing the app design into different modules:
+a)Designing the app.
+b)Forms creation.
+c)Storing the data (trying to do it using cloud)
+
+Implementation:
+First we are going to design the front end of the app using XML language.After that we will write the back end using java programming.
+
+Testing,Validation,verification:
+Testing should be step by step like initially we test the forms where we store the data of students and their details and next we check the storing of data .Before doing the above tests we will check the GUI part where all the buttons etc., that are included in the GUI part are working properly  or not.
+
+Customer exposure:
+Most of the customers are from colleges where it can be deployed in colleges by the faculty and the admin mostly.So it can be easily deployed in colleges which is most useful in recent days to take attendance in schools also.
+
+Final Deliverable:
+It can be delivered in such a way that it might be used in some companies or schools or colleges and it can store huge data as we are designing using cloud computing.
