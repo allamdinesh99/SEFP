@@ -20,3 +20,22 @@ week3
 #2 what sort of skills are basically need in software development?
 #3 I have learnt that SE is like learning existing methods and developing them using some ideas(methods in software).
 #4 what are the principles of software engineering?
+
+week4
+#1 Life cycles of the software :
+                   We should not blindly design the software and test it after the design get finished.
+                   Before designing the software first we have to look at the cycle of the software which means we have to 
+                   divide the software into some stages.Step by step process should be take place .Stages like Requirements,Design,Implementation 
+                   testing etc., Before designing a software we should look at the requirements of the software.Later we should worry about 
+                   designing part of software.After designing we should try to implement the software and then finally we reached the testing part.
+                   If the software gets falied we should start from design part and continue the cycle.This is the life cycle of the software.
+                   Different types of life cycles are existing at current.We should select which life cycle suits our project and which life cycle 
+                   will be helpful in implementing the software.Look at the advantages and disadvantages of the different life cycles.
+  #2 I have learnt about the stakeholders and their requirements and the representation of both requirements and stakeholders.
+  For the software that we are going to design we should look at the requirements of the stakeholders.stakeholders are like the one
+  who are going to use our software.So from them we should understand their requirements.Based on the requirements modify / design our software.
+  Lets take an example of facebook ,for facebook stakeholders are like students ,advertisors,employees,teacher,institutions and others
+  like designers etc.,Their requirements are students-chatting/lies/shares/uploading pics etc., employees-looking for adds related to jobs
+  advertisors-giving advertisements etc., Inorder to look at their requirements we should develop some methods for representation like
+  venn diagrams,Finite Automata,functions histograms,sets etc.,
+                  
